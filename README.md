@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Sarang Surve, pursuing my Bachelors in **Computer Engineering**.
+🎓 I am Sarang Surve, pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, & languages.
+👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, and **Flutter**.
 
-🎸 Apart from the world of tech, I love **dancing**, **editing music** and **play football & game**.
+🎸 Apart from the world of tech, I love **dancing** and **play football & games**.
 
 📚 I also love reading books.
 
@@ -14,7 +14,7 @@
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1wSCvMnNgHmcE0DEKOlXk4YrbsP1TEnmW/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1qeHJWyaAV6swH5dnVvE0l-Dzs7Pevir3/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sarangsurve)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sarangsurve)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarangsurve126@gmail.com)
