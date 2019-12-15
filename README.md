@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Sarang Surve, pursued my Bachelors in **Computer Engineering**.
+🎓 I am Sarang Surve, a **Solution Analyst** (specializing in **Back-End Development**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, and **Flutter**.
+👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**.
 
 🎸 Apart from the world of tech, I love **dancing** and **play football & games**.
 
-📚 I also love reading books.
+📚 I love reading books on **detective fiction**. My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction.
 
 ✈️ I love **traveling** as well. My last trip was a family trip to Guhaghar in 2018.
 
