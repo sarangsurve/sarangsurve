@@ -4,13 +4,13 @@
 
 🎓 I am Sarang Surve, a **Solution Analyst** (specializing in **Back-End Development**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**.
+👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, and a bit about , **Grafana**, **Prometheus**, and **Ansible**.
 
 🎸 Apart from the world of tech, I love **dancing** and **play football & games**.
 
-📚 I love reading books on **detective fiction**. My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction.
+📚 I love reading books on **detective fiction** & **financial literacy**. My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
 
-✈️ I love **traveling** as well. My last trip was a family trip to Guhaghar in 2018.
+✈️ I love **traveling** as well. My last trip was a family trip to Ratnagiri in 2020.
 
 ## 🔗 Links
 
