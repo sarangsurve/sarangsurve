@@ -4,13 +4,23 @@
 
 🎓 I am Sarang Surve, a **Solution Analyst** (specializing in **Back-End Development**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, and a bit about , **Grafana**, **Prometheus**, and **Ansible**.
+👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**.
 
-🎸 Apart from the world of tech, I love **dancing** and **play football & games**.
+🎸 Apart from the world of tech, I love **dancing** and **listening music**.
 
-📚 I love reading books on **detective fiction** & **financial literacy**. My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction and **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy.
+📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction** . My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
 
 ✈️ I love **traveling** as well. My last trip was a family trip to Ratnagiri in 2020.
+
+## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&show_icons=true&hide_border=true" alt="Sarang Surve's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sarangsurve.sarangsurve" alt="visitors">
+</div>
 
 ## 🔗 Links
 
