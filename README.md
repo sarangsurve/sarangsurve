@@ -4,7 +4,7 @@
 
 🎓 I am Sarang Surve, a **Solution Analyst** (specializing in **Back-End Development**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, & languages. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**.
+👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **Progressive Web App (PWA)**.
 
 🎸 Apart from the world of tech, I love **dancing** and **listening music**.
 
