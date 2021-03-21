@@ -10,7 +10,7 @@
 
 📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction** . My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
 
-✈️ I love **traveling** as well. My last trip was a family trip to Ratnagiri in 2020.
+✈️ I love **traveling** as well, even though it's been long time since I last traveled. My last trip was a family trip to Ratnagiri in 2020.
 
 ## 📈 Stats
 
