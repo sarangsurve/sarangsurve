@@ -53,10 +53,10 @@
 
 ### IDEs/Editors
 
-[![vscode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
+[![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/topics/xcode)
 [![android-studio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/android)
-[![intellij-idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/JetBrains/intellij-community)
+[![intellij-idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/JetBrains/intellij-community)
 
 ### Data Streaming
 [![apache-kafka](https://img.shields.io/badge/kafka-2.7.1-brightgreen.svg?style=for-the-badge&logo=kafka&logoColor=white)](https://github.com/apache/kafka)
@@ -67,10 +67,14 @@
 [![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes)
 [![ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible)
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&show_icons=true&hide_border=true" alt="Sarang Surve's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&hide_border=true&include_all_commits=true&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" alt="Sarang Surve's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarangsurve&layout=compact&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" alt="My Programming Languages" />
 </div>
 
 <div align="center">
@@ -80,7 +84,7 @@
 ## 🔗 Links
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/12x_o9Nd3WtpIJ4ruzyO4AqrOtJ__kYk9/view?usp=sharing)
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sarangsurve)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sarangsurve)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sarangsurve)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarangsurve126@gmail.com)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sarangsurve)
