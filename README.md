@@ -57,7 +57,7 @@
 [![android-studio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/android)
 [![intellij-idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/JetBrains/intellij-community)
 
-### Data Streaming
+### Event Streaming
 [![apache-kafka](https://img.shields.io/badge/kafka-2.7.1-brightgreen.svg?style=for-the-badge&logo=kafka&logoColor=white)](https://github.com/apache/kafka)
 
 ### DevOps Tools
