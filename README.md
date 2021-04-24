@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Sarang Surve, a **Solution Analyst** (specializing in **Back-End Development**) pursued my Bachelors in **Computer Engineering**.
+🎓 I am Sarang Surve, a **Full Stack Developer** (specializing in **Back-End & Data-Streaming**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **Progressive Web App (PWA)**.
+👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **GraphQL**, **Progressive Web App (PWA)**, and a bit about **Elasticsearch**, **Logstash** and **Kibana**.
 
-🎸 Apart from the world of tech, I love **dancing** and **listening music**.
+🎸 Apart from the world of tech, I love pushing myself to develop new skills ranging from **playing flute**, **dancing**, and **sketching**.
 
 📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction** . My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
 
@@ -20,7 +20,7 @@
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/openjdk)
 [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/dotnet/csharplang)
-[![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/apple/swift)
+[![swift](https://img.shields.io/badge/Swift-FD7033?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/apple/swift)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript)
 [![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/dart-lang)
@@ -37,7 +37,6 @@
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pallets/flask)
 [![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/nodejs)
 [![expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/expressjs)
-
 
 ### Database
 
