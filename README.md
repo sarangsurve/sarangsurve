@@ -4,7 +4,7 @@
 
 🎓 I am Sarang Surve, a **Full Stack Developer** (specializing in **Back-End & Data-Streaming**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **GraphQL**, **Progressive Web App (PWA)**, and a bit about **Elasticsearch**, **Logstash** and **Kibana**.
+👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. During academics, I learned **C**, **C++**, **Java**, **Kotlin** and **C#**. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **GraphQL**, **Progressive Web App (PWA)**, and a bit about **Elasticsearch**, **Logstash** and **Kibana**.
 
 🎸 Apart from the world of tech, I love pushing myself to develop new skills ranging from **playing flute**, **dancing**, and **sketching**.
 
