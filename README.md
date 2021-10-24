@@ -4,7 +4,7 @@
 
 🎓 I am Sarang Surve, a **Full Stack Developer** (specializing in **Back-End & Data-Streaming**) pursued my Bachelors in **Computer Engineering**.
 
-👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. During academics, I learned **C**, **C++**, **Java**, **Kotlin** and **C#**. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, and a bit about **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **GraphQL**, **Progressive Web App (PWA)**, and a bit about **Elasticsearch**, **Logstash** and **Kibana**.
+👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. During academics, I learned **C**, **C++**, **Java**, **Kotlin** and **C#**. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **Progressive Web App (PWA)**, **Artillery.io**, **Elasticsearch**, **Logstash**, **Kibana**, **Filebeat** and **ASP.NET Web APIs**.
 
 🎸 Apart from the world of tech, I love pushing myself to develop new skills ranging from **playing flute**, **dancing**, and **sketching**.
 
@@ -56,6 +56,7 @@
 [![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/topics/xcode)
 [![android-studio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/android)
 [![intellij-idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/JetBrains/intellij-community)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 ### Event Streaming
 [![apache-kafka](https://img.shields.io/badge/kafka-2.7.1-brightgreen.svg?style=for-the-badge&logo=kafka&logoColor=white)](https://github.com/apache/kafka)
@@ -65,6 +66,9 @@
 [![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker)
 [![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes)
 [![ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible)
+
+### Testing Tools
+[![dotnet-framework](https://img.shields.io/badge/Artillery-000.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMyAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBhcmlhLWhpZGRlbj0idHJ1ZSIgYXJpYS1sYWJlbD0iQXJ0aWxsZXJ5Ij48cGF0aCBkPSJNMCAwSDMyVjMyLjU4NzJIMFYwWiIgZmlsbD0iIzE2MTYxNiI+PC9wYXRoPjxwYXRoIGQ9Ik0xOC45MDUyIDE4LjA0MzJMMTQuNzg3NSAxNC4wODc4TDExLjUxNDkgMTUuNDM1TDkuOTUxMzMgMTMuOTMzMUwyNC4zNDI4IDguMTA1NDJMMTkuMzAxNyAyMi45MTVMMTcuNzEzMiAyMS4zODkxTDE4LjkwNTIgMTguMDQzMlpNMTkuNTk4OCAxNi4wODY5TDIxLjI1MzkgMTEuMzg5NUwxNi42NzcyIDEzLjI4MDRMMTkuNTk4OCAxNi4wODY5WiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cGF0aCBkPSJNMTQuNTIxNSAxNC41MDM3TDE4LjY3MDYgMTguNDg5M0wyMi4yMTYxIDE0LjY2MTRMMjMuNjY3NiAxNi4wNTU3TDE0LjYwNDMgMjUuODQwOUwxMy4xNTI3IDI0LjQ0NjZMMTcuMzg1IDE5Ljg3NzJMMTMuMjM2IDE1Ljg5MTdMOS4wMDM2OCAyMC40NjExTDcuNTUyMTMgMTkuMDY2N0wxNi42MTU1IDkuMjgxNDlMMTguMDY3IDEwLjY3NThMMTQuNTIxNSAxNC41MDM3WiIgZmlsbD0id2hpdGUiPjwvcGF0aD48L3N2Zz4=)](https://github.com/artilleryio/artillery)
 
 ## 📈 GitHub Stats
 
