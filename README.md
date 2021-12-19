@@ -72,6 +72,8 @@
 
 ## 📈 GitHub Stats
 
+![snake gif](https://github.com/sarangsurve/sarangsurve/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&hide_border=true&include_all_commits=true&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" alt="Sarang Surve's GitHub Stats">
 </div>
