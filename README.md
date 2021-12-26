@@ -59,27 +59,38 @@
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 ### Event Streaming
+
 [![apache-kafka](https://img.shields.io/badge/kafka-2.7.1-brightgreen.svg?style=for-the-badge&logo=kafka&logoColor=white)](https://github.com/apache/kafka)
 
 ### DevOps Tools
+
 [![jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/jenkinsci/jenkins)
 [![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker)
 [![kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes)
 [![ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible)
 
 ### Testing Tools
+
 [![dotnet-framework](https://img.shields.io/badge/Artillery-000.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMyAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBhcmlhLWhpZGRlbj0idHJ1ZSIgYXJpYS1sYWJlbD0iQXJ0aWxsZXJ5Ij48cGF0aCBkPSJNMCAwSDMyVjMyLjU4NzJIMFYwWiIgZmlsbD0iIzE2MTYxNiI+PC9wYXRoPjxwYXRoIGQ9Ik0xOC45MDUyIDE4LjA0MzJMMTQuNzg3NSAxNC4wODc4TDExLjUxNDkgMTUuNDM1TDkuOTUxMzMgMTMuOTMzMUwyNC4zNDI4IDguMTA1NDJMMTkuMzAxNyAyMi45MTVMMTcuNzEzMiAyMS4zODkxTDE4LjkwNTIgMTguMDQzMlpNMTkuNTk4OCAxNi4wODY5TDIxLjI1MzkgMTEuMzg5NUwxNi42NzcyIDEzLjI4MDRMMTkuNTk4OCAxNi4wODY5WiIgZmlsbD0id2hpdGUiPjwvcGF0aD48cGF0aCBkPSJNMTQuNTIxNSAxNC41MDM3TDE4LjY3MDYgMTguNDg5M0wyMi4yMTYxIDE0LjY2MTRMMjMuNjY3NiAxNi4wNTU3TDE0LjYwNDMgMjUuODQwOUwxMy4xNTI3IDI0LjQ0NjZMMTcuMzg1IDE5Ljg3NzJMMTMuMjM2IDE1Ljg5MTdMOS4wMDM2OCAyMC40NjExTDcuNTUyMTMgMTkuMDY2N0wxNi42MTU1IDkuMjgxNDlMMTguMDY3IDEwLjY3NThMMTQuNTIxNSAxNC41MDM3WiIgZmlsbD0id2hpdGUiPjwvcGF0aD48L3N2Zz4=)](https://github.com/artilleryio/artillery)
 
-## 📈 GitHub Stats
+## 📊My GitHub Activity
 
 ![snake gif](https://github.com/sarangsurve/sarangsurve/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&hide_border=true&include_all_commits=true&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" alt="Sarang Surve's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&custom_title=Overall%20Stats&hide_border=true&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarangsurve&layout=compact&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" alt="My Programming Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarangsurve&layout=compact&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sarangsurve&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&currStreakLabel=79FF97&ring=79FF97&sideNums=79FF97&sideLabels=4B9E5E" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarangsurve&custom_title=Language%20Wakatime%20Stats&layout=compact&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" />
 </div>
 
 <div align="center">
@@ -90,6 +101,15 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+## 📈Productivity Stats
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarangsurve&theme=solarized_dark" display=block width=80% height=auto  alt="1" >
+</div>
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=sarangsurve&bg_color=151515&color=79ff97&line=3E824D&point=fff&area=true"  display=block width=100% height=auto alt="3" >
+</div>
 
 ## 🔗 Links
 
