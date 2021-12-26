@@ -86,6 +86,11 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sarangsurve.sarangsurve" alt="visitors">
 </div>
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🔗 Links
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1fNvpjIJbzHuS-JBsKGhoQUt1OquowKCK/view)
