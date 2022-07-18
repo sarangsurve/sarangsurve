@@ -100,6 +100,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#287](https://github.com/doghappy/socket.io-client-csharp/issues/287) in [doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
+2. 🗣 Commented on [#287](https://github.com/doghappy/socket.io-client-csharp/issues/287) in [doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
+3. ❗️ Opened issue [#287](https://github.com/doghappy/socket.io-client-csharp/issues/287) in [doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
 <!--END_SECTION:activity-->
 
 ## 📈Productivity Stats
