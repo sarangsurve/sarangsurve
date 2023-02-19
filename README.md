@@ -99,6 +99,10 @@
 3. ❗️ Opened issue [#287](https://github.com/doghappy/socket.io-client-csharp/issues/287) in [doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
 <!--END_SECTION:activity-->
 
+## <a href="https://dev.to/sarangsurve"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to     
+ <!-- DEVTO-BLOG-LIST:START -->
+<!-- DEVTO-BLOG-LIST:END -->
+
 ## 📈Productivity Stats
 
 <div align="center">
