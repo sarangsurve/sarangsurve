@@ -75,8 +75,6 @@
 
 ## 📊My GitHub Activity
 
-![snake gif](https://github.com/sarangsurve/sarangsurve/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sarangsurve&custom_title=Overall%20Stats&hide_border=true&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" />
 </div>
@@ -87,10 +85,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sarangsurve&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&currStreakLabel=79FF97&ring=79FF97&sideNums=79FF97&sideLabels=4B9E5E" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarangsurve&custom_title=Language%20Wakatime%20Stats&layout=compact&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" />
 </div>
 
 <div align="center">
