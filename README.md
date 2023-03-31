@@ -101,8 +101,6 @@
 
 ## <a href="https://dev.to/sarangsurve"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
-- [What is Github Profile? And How to Use it.](https://dev.to/sarangsurve/what-is-github-profile-and-how-to-use-it-13h3)
-- [Create JAR file in IntelliJ IDEA](https://dev.to/sarangsurve/create-jar-file-in-intellij-idea-4kck)
 - [Get Started with GraphQL](https://dev.to/sarangsurve/get-started-with-graphql-559h)
 <!-- DEVTO-BLOG-LIST:END -->
 
