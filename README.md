@@ -10,7 +10,7 @@
 
 📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction**. My favorites are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy, and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
 
-✈️ I love **traveling** as well. My last trip was a family trip to Ratnagiri in 2021.
+✈️ I love **traveling** as well.
 
 ## 🛠️ Skills
 
@@ -99,18 +99,11 @@
 3. ❗️ Opened issue [#287](https://github.com/doghappy/socket.io-client-csharp/issues/287) in [doghappy/socket.io-client-csharp](https://github.com/doghappy/socket.io-client-csharp)
 <!--END_SECTION:activity-->
 
-## <a href="https://dev.to/sarangsurve"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to     
- <!-- DEVTO-BLOG-LIST:START -->
-- [Get Started with GraphQL](https://dev.to/sarangsurve/get-started-with-graphql-559h)
-<!-- DEVTO-BLOG-LIST:END -->
 
 ## 📈Productivity Stats
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarangsurve&theme=solarized_dark" display=block width=80% height=auto  alt="1" >
-</div>
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=sarangsurve&bg_color=151515&color=79ff97&line=3E824D&point=fff&area=true"  display=block width=100% height=auto alt="3" >
 </div>
 
 ## 🔗 Links
