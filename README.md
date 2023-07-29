@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sarang Surve, a **Full Stack Developer** (specialized in **Back-End & Data-Streaming** & aspire to become Cloud Solution Architect) pursued my Bachelors in **Computer Engineering**.
+🎓 I am Sarang Surve, a **Full Stack Developer** (specialized in **Back-End & Data-Streaming** & aspire to become **Cloud Solution Architect**) pursued my Bachelors in **Computer Engineering**.
 
 👨‍💻 I am really enthusiastic about learning new technologies, frameworks, languages & tools. During academics, I learned **C**, **C++**, **Java**, **Kotlin** and **C#**. In 2019, I learned **Swift**, **Firebase**, **Dart**, **Flutter**, **Python**, **Django**, and **React Native**. In 2020, I learned **Apache Kafka**, **Kubernetes**, **Jenkins**, **Docker**, **NodeJS**, **ExpressJS**, **Angular**, **GraphQL**, **TypeScript**, **Flask**, **Socket.io**, **Grafana**, **Prometheus**, and **Ansible**. In 2021, till now, I learned **Progressive Web App (PWA)**, **Artillery.io**, **Elasticsearch**, **Logstash**, **Kibana**, **Filebeat** and **ASP.NET Web APIs**.
 
