@@ -8,7 +8,7 @@
 
 🎸 Apart from the world of tech, I love pushing myself to develop new skills ranging from **playing flute**, **dancing**, and **sketching**.
 
-📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction** . My favorites ones are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
+📚 I love reading books on **detective fiction**, **financial literacy** & **fantasy fiction**. My favorites are **The Adventures of Sherlock Holmes** by *Sir Arthur Conan Doyle* in the genre of detective fiction, **Rich Dad Poor Dad** by *Robert Kiyosaki* in the genre of financial literacy, and **The Immortals of Meluha** by *Amish Tripathi* in the genre of fantasy fiction.
 
 ✈️ I love **traveling** as well. My last trip was a family trip to Ratnagiri in 2021.
 
@@ -26,7 +26,7 @@
 [![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/dart-lang)
 [![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
 
-### Cross Platfrom Development
+### Cross-Platform Development
 
 [![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter)
 [![dotnet-framework](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/dotnet)
